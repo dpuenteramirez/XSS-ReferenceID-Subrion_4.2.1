@@ -4,7 +4,7 @@
 
 **@author**: Daniel Puente
 
-**#description**: Cross-site scripting (XSS) vulnerability in `Reference ID` from the panel `Transactions`,  of Subrion v4.2.1 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into 'Reference ID' parameter.
+**@description**: Cross-site scripting (XSS) vulnerability in `Reference ID` from the panel `Transactions`,  of Subrion v4.2.1 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into 'Reference ID' parameter.
 
 ---
 # PoC
